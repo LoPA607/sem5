@@ -1,0 +1,362 @@
+New Delhi                     : 80370.0 cases
+Puducherry                    : 15643.0 cases
+East Siang                    : 15064.0 cases
+North 24 Parganas             : 10584.0 cases
+Hooghly                       : 10174.0 cases
+Paschim Medinipur             : 9529.0 cases
+Firozabad                     : 5754.0 cases
+Chandigarh                    : 5710.0 cases
+Nadia                         : 5362.0 cases
+Patna                         : 4108.0 cases
+Murshidabad                   : 3322.0 cases
+Bilaspur                      : 2183.0 cases
+Kota                          : 2176.0 cases
+Birbhum                       : 2092.0 cases
+Kamrup                        : 1925.0 cases
+Tirunelveli                   : 1835.0 cases
+Malda                         : 1699.0 cases
+Purba Medinipur               : 1606.0 cases
+Jalpaiguri                    : 1434.0 cases
+Palakkad                      : 1423.0 cases
+Bhabua                        : 1320.0 cases
+Aurangabad                    : 1223.0 cases
+Gaya                          : 1204.0 cases
+Nainital                      : 1138.0 cases
+Raichur                       : 1070.0 cases
+Burdwan                       : 1061.0 cases
+Chikkaballapur                : 1047.0 cases
+Tumkur                        : 1032.0 cases
+Hardoi                        : 1008.0 cases
+South 24 Parganas             :  995.0 cases
+Chikkaballapura               :  991.0 cases
+Howrah                        :  930.0 cases
+Nagpur                        :  879.0 cases
+Ahmednagar                    :  867.0 cases
+West Siang                    :  843.0 cases
+Papum Pare                    :  826.0 cases
+Chandrapur                    :  799.0 cases
+Beed                          :  790.0 cases
+Bhojpur                       :  760.0 cases
+Ernakulam                     :  744.0 cases
+Kanpur Nagar                  :  742.0 cases
+Jammu and Kashmir             :  741.0 cases
+Kolar                         :  729.0 cases
+Jalgaon                       :  726.0 cases
+Purulia                       :  667.0 cases
+Satara                        :  664.0 cases
+Kozhikode                     :  662.0 cases
+Thane                         :  660.0 cases
+Khammam                       :  652.0 cases
+Sonitpur                      :  613.0 cases
+Nizamabad                     :  608.0 cases
+Pune                          :  600.0 cases
+Malappuram                    :  595.0 cases
+Raigad                        :  593.0 cases
+Gurgaon                       :  591.0 cases
+Kannur                        :  534.0 cases
+Darjeeling, Jalpaiguri        :  530.0 cases
+Bhagalpur                     :  521.0 cases
+Mahabubnagar                  :  511.0 cases
+Nashik                        :  488.0 cases
+Junagadh                      :  482.0 cases
+Kolhapur                      :  447.0 cases
+Doda                          :  435.0 cases
+Udupi                         :  418.0 cases
+Ramanathapuram                :  401.0 cases
+Auraiya                       :  389.0 cases
+Ghaziabad                     :  388.0 cases
+Amravati                      :  386.0 cases
+Sangli                        :  376.0 cases
+Chitradurga                   :  361.0 cases
+Haridwar                      :  358.0 cases
+Mandya                        :  354.0 cases
+Tiruvannamalai                :  346.0 cases
+Kollam                        :  341.0 cases
+Upper Siang                   :  321.0 cases
+Villupuram                    :  320.0 cases
+Kottayam                      :  316.0 cases
+Virudhunagar                  :  311.0 cases
+Baleswar                      :  310.0 cases
+Madurai                       :  306.0 cases
+Mandla                        :  306.0 cases
+Dindigul                      :  305.0 cases
+Koriya                        :  304.0 cases
+Alwar                         :  302.0 cases
+East Sikkim                   :  299.0 cases
+Shivpuri                      :  295.0 cases
+Muzaffarpur                   :  278.0 cases
+East Singhbhum                :  274.0 cases
+Solan                         :  272.0 cases
+Dharmapuri                    :  266.0 cases
+Dhule                         :  263.0 cases
+South Goa                     :  251.0 cases
+Krishna                       :  250.0 cases
+Thanjavur                     :  248.0 cases
+Kancheepuram                  :  242.0 cases
+Salem                         :  241.0 cases
+Bareilly                      :  238.0 cases
+Indore                        :  237.0 cases
+Sukma                         :  235.0 cases
+Baran                         :  234.0 cases
+Pudukottai                    :  227.0 cases
+Sehore                        :  223.0 cases
+Morena                        :  214.0 cases
+Nalgonda                      :  214.0 cases
+Dakshin Dinajpur              :  214.0 cases
+Mysore                        :  212.0 cases
+Trivandrum                    :  212.0 cases
+Sangareddy                    :  210.0 cases
+Ajmer                         :  210.0 cases
+Raipur                        :  209.0 cases
+Palghar                       :  204.0 cases
+Sivaganga                     :  203.0 cases
+Theni                         :  200.0 cases
+Nalanda                       :  197.0 cases
+Bhandara                      :  195.0 cases
+Sri Ganganagar                :  190.0 cases
+West Garo Hills               :  189.0 cases
+Imphal West                   :  186.0 cases
+Ranchi                        :  185.0 cases
+Bankura                       :  185.0 cases
+Tapi                          :  184.0 cases
+Tiruchirapalli                :  182.0 cases
+Mathura                       :  182.0 cases
+Bastar                        :  182.0 cases
+Ballari                       :  180.0 cases
+Ratnagiri                     :  179.0 cases
+Churachandpur                 :  177.0 cases
+Daman and Diu                 :  177.0 cases
+Haveri                        :  175.0 cases
+Kasaragod                     :  175.0 cases
+Idukki                        :  170.0 cases
+Tirunelveli- Sankarankovil    :  170.0 cases
+Wardha                        :  169.0 cases
+Akola                         :  166.0 cases
+Dimapur                       :  160.0 cases
+Siwan                         :  155.0 cases
+Pakur                         :  153.0 cases
+Jalna                         :  152.0 cases
+Muzaffarnagar                 :  148.0 cases
+Mahbubnagar                   :  146.0 cases
+Kannauj                       :  145.0 cases
+Aizawl                        :  141.0 cases
+Uttar Dinajpur                :  140.0 cases
+Nanded                        :  139.0 cases
+Pathanamthitta                :  136.0 cases
+Gulbarga                      :  136.0 cases
+RAJANNA SIRCILLA              :  135.0 cases
+Pondicherry                   :  134.0 cases
+Hanumangarh                   :  130.0 cases
+Kupwara                       :  130.0 cases
+Shimoga                       :  127.0 cases
+Ganganagar                    :  126.0 cases
+Davangere                     :  124.0 cases
+Sahebganj                     :  121.0 cases
+Faridabad                     :  119.0 cases
+Fatehpur                      :  119.0 cases
+Jalaun                        :  118.0 cases
+Sholapur                      :  116.0 cases
+Pudukkottai                   :  115.0 cases
+Karaikal                      :  114.0 cases
+Sindhudurg                    :  114.0 cases
+Trichy                        :  113.0 cases
+Prakasam                      :  113.0 cases
+Buldhana                      :  105.0 cases
+Agra                          :  102.0 cases
+Gadag                         :  100.0 cases
+Paramakudi                    :   99.0 cases
+Osmanabad                     :   99.0 cases
+Coimbatore                    :   99.0 cases
+North Goa                     :   97.0 cases
+Gadchiroli                    :   96.0 cases
+Vijayapur                     :   96.0 cases
+Chamarajanagar                :   93.0 cases
+Karur                         :   93.0 cases
+South Sikkim                  :   92.0 cases
+Wanaparthy                    :   92.0 cases
+Nagaon                        :   92.0 cases
+Thoothukudi                   :   92.0 cases
+Perambalur                    :   91.0 cases
+Lakshadweep                   :   90.0 cases
+Jhansi                        :   89.0 cases
+Thiruvallur                   :   88.0 cases
+Godda                         :   87.0 cases
+Gajapati                      :   85.0 cases
+Namakkal                      :   84.0 cases
+Saharanpur                    :   84.0 cases
+Kalaburagi                    :   82.0 cases
+Bharatpur                     :   81.0 cases
+Chikkamagaluru                :   81.0 cases
+Thiruvannamalai               :   81.0 cases
+Burhanpur                     :   80.0 cases
+Ramanathapuram-Paramakudi     :   79.0 cases
+Munger                        :   79.0 cases
+Virudhunagar- Sivakasi        :   74.0 cases
+Samastipur                    :   70.0 cases
+Aizawl West                   :   68.0 cases
+Erode                         :   68.0 cases
+Durg                          :   67.0 cases
+Bijapur                       :   67.0 cases
+Rajgarh                       :   65.0 cases
+Tiruvallur                    :   64.0 cases
+Thrissur                      :   64.0 cases
+Kadapa                        :   63.0 cases
+Chittoor                      :   63.0 cases
+Narsinghpur                   :   63.0 cases
+Dehradun                      :   60.0 cases
+Davanagere                    :   60.0 cases
+Singtam                       :   60.0 cases
+Ambala                        :   60.0 cases
+Bardhaman                     :   59.0 cases
+West Godavari                 :   58.0 cases
+Goalpara                      :   57.0 cases
+Dindigul-Palani               :   57.0 cases
+Tonk                          :   56.0 cases
+Hassan                        :   56.0 cases
+Bangalore Rural               :   55.0 cases
+Budaun                        :   54.0 cases
+Dharwad                       :   54.0 cases
+Kavaratti Island              :   54.0 cases
+Alappuzha                     :   53.0 cases
+Aizawl East                   :   53.0 cases
+Nandurbar                     :   52.0 cases
+Warangal                      :   51.0 cases
+Minicoy                       :   50.0 cases
+Uttara Kannada                :   50.0 cases
+Latur                         :   50.0 cases
+Patan                         :   49.0 cases
+Puducherry & Karaikal         :   49.0 cases
+Ramanathapuram- Paramakudi    :   49.0 cases
+Farrukhabad                   :   48.0 cases
+Dhanbad                       :   48.0 cases
+North Delhi                   :   48.0 cases
+Gautam Buddha Nagar           :   48.0 cases
+Cuddalore                     :   47.0 cases
+Bagalkot                      :   47.0 cases
+Parbhani                      :   46.0 cases
+Khandwa                       :   45.0 cases
+Imphal East                   :   43.0 cases
+Manipur                       :   42.0 cases
+Ariyalur                      :   42.0 cases
+Cannanore (Kannur)            :   41.0 cases
+Bokaro                        :   41.0 cases
+Barmer                        :   40.0 cases
+Belagavi                      :   38.0 cases
+Kanpur                        :   38.0 cases
+Bangalore urban               :   38.0 cases
+Kolasib                       :   38.0 cases
+Ramanagara                    :   36.0 cases
+Vadodara                      :   35.0 cases
+Washim                        :   34.0 cases
+Badaun                        :   34.0 cases
+Bidar                         :   34.0 cases
+South Delhi                   :   34.0 cases
+Ghazipur                      :   33.0 cases
+Dhemaji                       :   33.0 cases
+Mainpuri                      :   32.0 cases
+Mahaboobnagar                 :   32.0 cases
+Bangalore Urban               :   32.0 cases
+Dadra and Nagar Haveli        :   32.0 cases
+Lakhimpur                     :   32.0 cases
+Purnia                        :   32.0 cases
+East Kameng                   :   31.0 cases
+East Imphal West Imphal       :   31.0 cases
+Nagaur                        :   30.0 cases
+Nagercoil                     :   30.0 cases
+Krishnagiri                   :   29.0 cases
+Khagaria                      :   29.0 cases
+Belgaum                       :   28.0 cases
+Mangalore                     :   28.0 cases
+Bongaigaon                    :   27.0 cases
+Sabarkantha                   :   26.0 cases
+Sri Muktsar Sahib             :   26.0 cases
+Dibrugarh                     :   25.0 cases
+Nagapattinam                  :   23.0 cases
+Gondia                        :   22.0 cases
+Srikakulam                    :   22.0 cases
+Thiruvarur                    :   22.0 cases
+Kavaratti                     :   22.0 cases
+Khargone                      :   22.0 cases
+Nimach                        :   21.0 cases
+Tehri                         :   21.0 cases
+Ramanathapuram Paramakudi     :   21.0 cases
+Vellore                       :   21.0 cases
+Dakshina Kannada              :   21.0 cases
+Dholpur                       :   20.0 cases
+Rudraprayag                   :   20.0 cases
+Nuh                           :   19.0 cases
+Tenkasi                       :   19.0 cases
+Barwani                       :   18.0 cases
+Karbi-Anglong                 :   18.0 cases
+Osmanabad (Maharashtra)       :   18.0 cases
+Virudhunagar - Sivakasi       :   17.0 cases
+Kanyakumari                   :   17.0 cases
+Diu                           :   17.0 cases
+Hingoli                       :   17.0 cases
+Wayanad                       :   17.0 cases
+Tirunelveli Sankarankovil     :   16.0 cases
+Tinsukia                      :   16.0 cases
+Virudhunagar Sivakasi         :   15.0 cases
+Samba(Jammu and Kashmir)      :   15.0 cases
+Tumakuru                      :   15.0 cases
+Saraikela Kharsawan           :   15.0 cases
+Visakhapatnam                 :   14.0 cases
+Suryapet                      :   14.0 cases
+Thiruvananthapuram            :   14.0 cases
+Medak                         :   13.0 cases
+Bengaluru                     :   13.0 cases
+Nellore                       :   13.0 cases
+Mysuru                        :   13.0 cases
+Jorhat                        :   12.0 cases
+Tuticorin                     :   12.0 cases
+Gir Somnath                   :   12.0 cases
+Viluppuram                    :   12.0 cases
+Guna                          :   10.0 cases
+Bhind                         :   10.0 cases
+Jamnagar                      :   10.0 cases
+Koppal                        :   10.0 cases
+Hoshangabad                   :    9.0 cases
+Bikaner                       :    9.0 cases
+Katni                         :    9.0 cases
+Udham Singh Nagar             :    9.0 cases
+Nagaur (Rajasthan)            :    9.0 cases
+Sawai Madhopur                :    8.0 cases
+Pauri Garhwal                 :    8.0 cases
+thiruvananthapuram            :    8.0 cases
+Sonitpur (Tezpur)             :    8.0 cases
+Dhubri                        :    7.0 cases
+Khunti                        :    7.0 cases
+Raigarh                       :    7.0 cases
+Banaskantha                   :    6.0 cases
+Betul                         :    6.0 cases
+Karimnagar                    :    6.0 cases
+Korba                         :    6.0 cases
+Arwal                         :    5.0 cases
+Shamli                        :    5.0 cases
+Jehanabad                     :    5.0 cases
+Mahe                          :    4.0 cases
+Garhwa                        :    4.0 cases
+Banwara                       :    4.0 cases
+Kokrajhar                     :    4.0 cases
+East Garo Hills               :    3.0 cases
+Dewas                         :    2.0 cases
+Dakshin Kannada               :    2.0 cases
+Kohima                        :    2.0 cases
+Mokokchung                    :    1.0 cases
+--------------------------------------------------
+TOTAL                         : 244304.0 cases
+
+Number of districts with dengue cases: 345
+
+Statistics:
+Average cases per district: 708.1
+Median cases per district: 93.0
+Maximum cases in a district: 80370.0
+Minimum cases in a district: 1.0
+
+Top 5 districts with highest dengue cases:
+220. New Delhi: 80370.0 cases
+242. Puducherry: 15643.0 cases
+93. East Siang: 15064.0 cases
+223. North 24 Parganas: 10584.0 cases
+124. Hooghly: 10174.0 cases

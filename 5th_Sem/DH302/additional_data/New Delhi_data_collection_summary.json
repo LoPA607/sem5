@@ -1,0 +1,17 @@
+{
+  "district": "New Delhi",
+  "coordinates": [
+    28.6139,
+    77.209
+  ],
+  "date_range": [
+    "2009-01-01",
+    "2022-12-31"
+  ],
+  "data_sources_collected": 7,
+  "weather_records": 0,
+  "vegetation_records": 320,
+  "environmental_records": 5113,
+  "vector_records": 730,
+  "collection_timestamp": "2025-10-19T11:18:26.192652"
+}
